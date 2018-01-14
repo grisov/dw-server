@@ -1,3 +1,4 @@
-#!/home/info/env/bin/python3.6
+#!/home/info/env/bin/python
 from app import app
+
 app.run(debug = True)
